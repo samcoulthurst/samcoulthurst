@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://github.com/{samcoulthurst}/{samcoulthurst}/blob/main/Williams_Racing.png" alt="Banner of FW46">
 
 <!--
 **samcoulthurst/samcoulthurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
