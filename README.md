@@ -10,7 +10,7 @@
 
 Physics undergraduate at Durham University with an interest in Formula One Strategy. In 2024/25, I completed a 13 month placement with the Vehicle Performance group at Williams Racing. 
 
-My GitHub repositories consist of personal projects intended to help me gain a deeper understanding of the mathematics in Formula One.
+My GitHub repositories consist of personal projects intended to help me gain a deeper understanding of the mathematics in Formula One, as well as projects for my undergraduate degree.
 
 ## 💡 Languages 💡
 - MATLAB  
