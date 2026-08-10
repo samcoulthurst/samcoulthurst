@@ -8,24 +8,11 @@
 
 ### About Me
 
-Physics undergraduate at Durham University with an interest in Formula One Strategy. In 2024/25, I completed a 13 month placement with the Vehicle Performance group at Williams Racing. 
-
-## 💡 Languages 💡
-- MATLAB  
-- Python  
-
----
-
-## 🔨 Tools 🔨
-- **McLaren Applied: ATLAS 10** → Race Data Analysis  
-- **SBG RaceWatch** → Strategy & Sporting Analysis  
+Physics student @ University of Oxford with an interest in Formula One Strategy.
 
 <br>
 
 <div align="center">
-  <a href="scoulthurst2012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://linkedin.com/in/samcoulthurst" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
