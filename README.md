@@ -8,7 +8,7 @@
 
 ### About Me
 
-Physics student @ University of Oxford with an interest in Formula One Strategy.
+Physics student @ University of Oxford.
 
 I am currently studying for an MSc in Mathematical and Theoretical Physics at the University of Oxford.  Graduating in July 2027, I am taking modules in "Machine Learning Fundamentals with Applications to Physics and Mathematics", "General Relativity", "Quantum Field Theory" and "Algorithms and Computations in Theoretical Physics".
 
